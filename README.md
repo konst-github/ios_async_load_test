@@ -6,5 +6,5 @@ Early 2021
 
 UIKit, MVVM, Alamofire, ObjectMapper
 
-[Screenshot 1](images/1.png)
-[Screenshot 2](images/2.png)
+[Screenshot 1](images/1.PNG)
+[Screenshot 2](images/2.PNG)
